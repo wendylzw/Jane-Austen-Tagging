@@ -22,3 +22,5 @@ we use this package for text analysis
 
 - [jane austen package](https://github.com/juliasilge/janeaustenr)  
 This package provides access to the full texts of Jane Austen's 6 completed, published novels. 
+
+- [Text Mining with R](https://www.tidytextmining.com/)
