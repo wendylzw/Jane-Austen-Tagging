@@ -18,5 +18,7 @@ The deliverable for this project are plots and explanations of what they mean.
 - [tnum package](https://github.com/Truenumbers/tnum)  
 we use this package for text analysis
 
+- [get start with tnum](https://github.com/Truenumbers/tnum/tree/master/tnum/inst/Rmd)
+
 - [jane austen package](https://github.com/juliasilge/janeaustenr)  
 This package provides access to the full texts of Jane Austen's 6 completed, published novels. 
